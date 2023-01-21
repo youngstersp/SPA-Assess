@@ -10,6 +10,7 @@ House  | Gray
 Roof | Brown
 Windows | Navy
 Window Grills | White
+Door | Yellow
 Grass | Green
 Night Grass| Dark Green
 Sky | Deep Sky Blue
